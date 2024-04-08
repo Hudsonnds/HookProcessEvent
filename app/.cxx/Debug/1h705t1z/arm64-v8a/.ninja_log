@@ -1,0 +1,6 @@
+# ninja log v5
+0	125	734274965	CMakeFiles/ptrace.dir/include/PtraceInject/pmparser.c.o	698a2f0aa8affdd5
+56	743	734274966	CMakeFiles/native-lib.dir/src/Hook.cpp.o	8406cab7184e3272
+29	767	734274966	CMakeFiles/ptrace.dir/include/PtraceInject/inject.cpp.o	a7a67949d7a237ce
+767	918	734274966	D:/AndroidProject/PubgMaoerInjection/PubgMaoerInjectionOffset/app/build/intermediates/cxx/Debug/1h705t1z/obj/arm64-v8a/ptrace	2a93a5b23c56a000
+744	922	734274966	D:/AndroidProject/PubgMaoerInjection/PubgMaoerInjectionOffset/app/build/intermediates/cxx/Debug/1h705t1z/obj/arm64-v8a/libnative-lib.so	d7754a3fd6a5256e

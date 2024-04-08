@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "native-lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-native-lib-RelWithDebInfo-9778ffb73d3dda5b13b8.json",
+					"name" : "native-lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "native_app_glue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-native_app_glue-RelWithDebInfo-59b1403aea8baa422844.json",
+					"name" : "native_app_glue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ptrace::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ptrace-RelWithDebInfo-afe01cf8fb5d16dffcb4.json",
+					"name" : "ptrace",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/AndroidProject/PubgMaoerInjection/PubgMaoerInjectionOffset/app/.cxx/RelWithDebInfo/6f3g552l/arm64-v8a",
+		"source" : "D:/AndroidProject/PubgMaoerInjection/PubgMaoerInjectionOffset/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

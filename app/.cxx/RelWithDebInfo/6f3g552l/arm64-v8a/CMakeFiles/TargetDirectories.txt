@@ -1,0 +1,5 @@
+D:/AndroidProject/PubgMaoerInjection/PubgMaoerInjectionOffset/app/.cxx/RelWithDebInfo/6f3g552l/arm64-v8a/CMakeFiles/ptrace.dir
+D:/AndroidProject/PubgMaoerInjection/PubgMaoerInjectionOffset/app/.cxx/RelWithDebInfo/6f3g552l/arm64-v8a/CMakeFiles/native-lib.dir
+D:/AndroidProject/PubgMaoerInjection/PubgMaoerInjectionOffset/app/.cxx/RelWithDebInfo/6f3g552l/arm64-v8a/CMakeFiles/native_app_glue.dir
+D:/AndroidProject/PubgMaoerInjection/PubgMaoerInjectionOffset/app/.cxx/RelWithDebInfo/6f3g552l/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/AndroidProject/PubgMaoerInjection/PubgMaoerInjectionOffset/app/.cxx/RelWithDebInfo/6f3g552l/arm64-v8a/CMakeFiles/rebuild_cache.dir

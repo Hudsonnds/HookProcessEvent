@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "D:\\AndroidProject\\PubgMaoerInjection\\PubgMaoerInjectionOffset\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android\\SDK\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\AndroidProject\\PubgMaoerInjection\\PubgMaoerInjectionOffset\\app\\.cxx\\Debug\\1h705t1z\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android\\SDK\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\AndroidProject\\PubgMaoerInjection\\PubgMaoerInjectionOffset\\app\\.cxx\\Debug\\1h705t1z\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-lib",
+      "abi": "arm64-v8a",
+      "output": "D:\\AndroidProject\\PubgMaoerInjection\\PubgMaoerInjectionOffset\\app\\build\\intermediates\\cxx\\Debug\\1h705t1z\\obj\\arm64-v8a\\libnative-lib.so",
+      "runtimeFiles": []
+    },
+    "ptrace::@6890427a1f51a3e7e1df": {
+      "artifactName": "ptrace",
+      "abi": "arm64-v8a",
+      "output": "D:\\AndroidProject\\PubgMaoerInjection\\PubgMaoerInjectionOffset\\app\\build\\intermediates\\cxx\\Debug\\1h705t1z\\obj\\arm64-v8a\\ptrace",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,5 @@
+Checking whether the ASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+clang version 14.0.0
+Target: x86_64-w64-windows-gnu
+Thread model: posix
+InstalledDir: D:/Android/SDK/NDK/android-ndk-r25-beta1/toolchains/llvm/prebuilt/windows-x86_64/bin
